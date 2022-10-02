@@ -1,4 +1,4 @@
-package com.poetry.forefront.jectpackcomposes.ui.theme
+package com.component.jectpackcomposes.ui.theme
 
 import androidx.compose.material.Typography
 import androidx.compose.ui.text.TextStyle

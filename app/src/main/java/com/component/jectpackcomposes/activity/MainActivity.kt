@@ -1,4 +1,4 @@
-package com.poetry.forefront.jectpackcomposes
+package com.component.jectpackcomposes.activity
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -10,8 +10,8 @@ import androidx.compose.material.MaterialTheme
 import androidx.compose.material.Surface
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.tooling.preview.Preview
-import com.poetry.forefront.jectpackcomposes.ui.theme.JectPackComposesTheme
-import com.poetry.forefront.jectpackcomposes.ui.theme.Views
+import com.component.jectpackcomposes.ui.theme.JectPackComposesTheme
+import com.component.jectpackcomposes.ui.theme.Views
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

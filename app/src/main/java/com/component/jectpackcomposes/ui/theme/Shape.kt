@@ -1,4 +1,4 @@
-package com.poetry.forefront.jectpackcomposes.ui.theme
+package com.component.jectpackcomposes.ui.theme
 
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material.Shapes

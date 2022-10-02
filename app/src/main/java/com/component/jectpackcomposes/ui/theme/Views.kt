@@ -1,4 +1,4 @@
-package com.poetry.forefront.jectpackcomposes.ui.theme
+package com.component.jectpackcomposes.ui.theme
 
 import androidx.compose.animation.core.animateDpAsState
 import androidx.compose.animation.core.tween
@@ -36,10 +36,6 @@ object Views {
             animationSpec = tween(
                 durationMillis = 1000
             )
-
-
-
-
         )
 
         Surface(color = MaterialTheme.colors.primary,
